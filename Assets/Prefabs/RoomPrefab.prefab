@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 7601356918980515866}
   - component: {fileID: 1592298371189643572}
   m_Layer: 0
-  m_Name: other walls.002
+  m_Name: MiddleWall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -926,7 +926,7 @@ GameObject:
   - component: {fileID: 5898246867249900432}
   - component: {fileID: 6688388621863198665}
   m_Layer: 0
-  m_Name: other walls.003
+  m_Name: InnerRoom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

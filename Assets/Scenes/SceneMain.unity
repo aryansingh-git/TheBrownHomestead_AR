@@ -150,6 +150,11 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1569703281308493398, guid: 35722e4712f384a19afd4335e33d9bad,
+        type: 3}
+      propertyPath: m_Name
+      value: CarouselUI
+      objectReference: {fileID: 0}
     - target: {fileID: 2106888375932641210, guid: 35722e4712f384a19afd4335e33d9bad,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -168,6 +173,11 @@ PrefabInstance:
     - target: {fileID: 2106888375932641210, guid: 35722e4712f384a19afd4335e33d9bad,
         type: 3}
       propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2139057177838816424, guid: 35722e4712f384a19afd4335e33d9bad,
+        type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2980956300959783871, guid: 35722e4712f384a19afd4335e33d9bad,
@@ -205,10 +215,25 @@ PrefabInstance:
       propertyPath: m_Value
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3590801616150702454, guid: 35722e4712f384a19afd4335e33d9bad,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4061186578387645826, guid: 35722e4712f384a19afd4335e33d9bad,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b255e490bf6b847548777c46910fa926, type: 2}
+    - target: {fileID: 4480590148518391403, guid: 35722e4712f384a19afd4335e33d9bad,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4508013261713533713, guid: 35722e4712f384a19afd4335e33d9bad,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -159.28421
+      value: -159.28429
       objectReference: {fileID: 0}
     - target: {fileID: 5279906565252146754, guid: 35722e4712f384a19afd4335e33d9bad,
         type: 3}
@@ -284,6 +309,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchorMin.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7333737676523450058, guid: 35722e4712f384a19afd4335e33d9bad,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9142831005845742619, guid: 35722e4712f384a19afd4335e33d9bad,
         type: 3}

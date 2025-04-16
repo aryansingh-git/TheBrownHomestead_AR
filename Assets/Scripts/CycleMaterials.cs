@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ChangeToSpecificMaterial : MonoBehaviour
+public class CycleMaterials : MonoBehaviour
 {
     // Drag your room object here
     public GameObject roomModel;
